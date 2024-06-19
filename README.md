@@ -66,6 +66,8 @@ Images from the project:
     <td><img src="https://github.com/Skizzy-create/Kerbal-Position-Estimatior/blob/main/images/loss.png" width="300"/></td>
   </tr>
   <tr>
+    <td></td>
     <td><img src="https://github.com/Skizzy-create/Kerbal-Position-Estimatior/blob/main/images/model.png" width="300"/></td>
+    <td></td>
   </tr>
 </table>
