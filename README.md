@@ -6,6 +6,23 @@ This project stands as a remarkable integration of data engineering, analytics, 
 ## Data Collection
 The data is meticulously gathered from a simulated spacecraft within the KRPC environment, capturing critical flight parameters such as position, velocity, g-force, aerodynamic forces, altitude, atmospheric conditions, orientation, angular momentum, mass, thrust, and atmospheric density. This wealth of data is streamed in real time and meticulously recorded for further analysis.
 
+We gather data from a simulated spacecraft within the KRPC environment. This data includes:
+
+* Position
+* Velocity
+* G-force
+* Aerodynamic forces
+* Altitude
+* Atmospheric conditions
+* Orientation
+* Angular momentum
+* Mass
+* Thrust
+* Atmospheric density
+
+This real-time data is meticulously recorded for further analysis.
+
+
 ## Data Processing
 Data processing is adeptly handled through `data_connecting.ipynb`, where the raw data is transformed into a structured training dataset. Each flight session contributes to a uniquely named file that enriches `training.csv`, forming the foundation for model training. Z-score normalization is applied to standardize the dataset, ensuring zero mean and unit variance, which is instrumental in enhancing model performance.
 
@@ -41,6 +58,7 @@ These figures reflect the model's exceptional capability in predicting trajector
 ```
 Note: Data for pos_Model6 & pos_Model7 will be incorporated upon availability.
 ```
+Images from the project:
 <table>
   <tr>
     <td><img src="https://github.com/Skizzy-create/Kerbal-Position-Estimatior/blob/main/images/actual%20vs%20predict.png" width="300"/></td>
