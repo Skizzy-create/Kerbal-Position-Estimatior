@@ -67,7 +67,5 @@ Images from the project:
   </tr>
   <tr>
     <td><img src="https://github.com/Skizzy-create/Kerbal-Position-Estimatior/blob/main/images/model.png" width="300"/></td>
-    <td><img src="https://github.com/Skizzy-create/Kerbal-Position-Estimatior/blob/main/images/pairplot.png" width="300"/></td>
-    <td><img src="https://github.com/Skizzy-create/Kerbal-Position-Estimatior/blob/main/images/regplot.png" width="300"/></td>
   </tr>
 </table>
