@@ -27,7 +27,7 @@ This real-time data is meticulously recorded for further analysis.
 Data processing is adeptly handled through `data_connecting.ipynb`, where the raw data is transformed into a structured training dataset. Each flight session contributes to a uniquely named file that enriches `training.csv`, forming the foundation for model training. Z-score normalization is applied to standardize the dataset, ensuring zero mean and unit variance, which is instrumental in enhancing model performance.
 
 ## Data Analysis
-The dataset undergoes a preliminary analysis to unravel patterns and correlations within the data. `plots.ipynb` houses an array of visualizations including pair plots and feature distributions that offer deep insights into the data's characteristics. These visual tools are invaluable for comprehending the intricacies of data and harnessing its full potential.
+The dataset undergoes a preliminary analysis to unravel patterns and correlations within the data. `plots.ipynb` houses an array of visualizations including pair plots and feature distributions that offer deep insights into the data's characteristics. These visual tools are invaluable for comprehending the intricacies of data and harnessing its full potential. `You will need to run the file locally to see the plots --SIZE CONSTRAINTS`
 
 ## Model Architecture
 The predictive model boasts a multi-layered architecture with various configurations:
