@@ -1,0 +1,2 @@
+# Kerbal-Position-Estimatior
+ This project stands as a remarkable integration of data engineering, analytics, and machine learning, illustrating the profound impact of these fields when synergized. It focuses on developing a predictive model that accurately forecasts spacecraft trajectories based on an array of flight parameters, epitomizing the advancements achievable through meticulous data analysis and sophisticated modeling techniques.
